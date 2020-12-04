@@ -14,7 +14,7 @@
 # change line 27 from 'cp' to 'mv'.
 
 # Asks user if they want to copy or move
-cp / mv
+# Coming soon
 
 # For each file, grab just the extension and remove duplicates.
 for f in $(ls)
