@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # FILE SORTER SCRIPT v1.4
-# By Rob Pratt
+# By @rpriven
 # Written 081920
 # Re-written 120320
 
